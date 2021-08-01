@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bad_Habits.Habits_List" BackgroundColor="White">
+    <ContentPage.Content>
+        <StackLayout >
+            <Button x:Name="selectHabitsBtn" Text="Зависимости" Clicked="selectHabitsBtn_Clicked" Margin="0,100,0,0" HorizontalOptions="Center" CornerRadius="20" BackgroundColor="#006ED7"></Button>
+            <Entry x:Name="ent1" HorizontalOptions="Fill" Margin="50,20,50,0" BackgroundColor="#008BDE" HorizontalTextAlignment="Center"></Entry>
+            <Picker x:Name="pir1" IsVisible="False" SelectedIndexChanged="pir1_SelectedIndexChanged">
+                <Picker.Items>
+                    <x:String>Курение</x:String>
+                    <x:String>Соц. сети</x:String>
+                    <x:String>Переедание</x:String>
+                    <x:String>YouTube</x:String>
+                    <x:String>Видео игры</x:String>
+                </Picker.Items>
+            </Picker>
+            <Button x:Name="nextHabitsBtn" Text="Далее" Clicked="nextHabitsBtn_Clicked" Margin="0,0,30,40" HorizontalOptions="End" VerticalOptions="EndAndExpand" 
+                    CornerRadius="20" BackgroundColor="#006ED7"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
