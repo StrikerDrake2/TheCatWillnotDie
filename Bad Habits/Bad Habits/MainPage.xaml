@@ -2,16 +2,20 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Bad_Habits.MainPage"
-             NavigationPage.HasNavigationBar="False" BackgroundColor="White">
+             NavigationPage.HasNavigationBar="False" BackgroundColor="#5973C8">
 
     <StackLayout x:Name="MainStack">
-        <Frame BackgroundColor="#008BDE" Padding="24" CornerRadius="0">
+        <Frame BackgroundColor="#363D93"
+               Padding="24" CornerRadius="0">
             <Label Text="Добавьте зависимость и избавьтесь от неё!" HorizontalTextAlignment="Center" TextColor="White" FontSize="18" FontAttributes="Bold"/>
         </Frame>
         <StackLayout x:Name="MainStackList">
 
         </StackLayout>
-        <Button x:Name="addBtn" Text="+" VerticalOptions="EndAndExpand" HorizontalOptions="End" Margin="0,0,30,40" CornerRadius="30" 
-                Padding="0,10,0,10" FontSize="30" WidthRequest="60" BackgroundColor="#006ED7" Clicked="addBtn_Clicked"></Button>
+        <Frame HorizontalOptions="Fill" VerticalOptions="EndAndExpand" Margin="0,50,0,0" BackgroundColor="#363D93" CornerRadius="10">
+            <Button x:Name="addBtn" Text="+" VerticalOptions="EndAndExpand" HorizontalOptions="End" Margin="0" CornerRadius="30" 
+                Padding="0,10,0,10" FontSize="30" WidthRequest="60" BackgroundColor="#5973C8" Clicked="addBtn_Clicked" TextColor="White"></Button>
+        </Frame>
+
     </StackLayout>
 </ContentPage>

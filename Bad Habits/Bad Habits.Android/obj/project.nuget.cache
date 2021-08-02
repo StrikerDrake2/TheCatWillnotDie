@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ONxMKxoi59kkGfZWu4Xv6lwOWhssoFQbrEwSYjX2sXoh0hHXouoCeMwCF4TIRms5o7FcVsqgkjeMDaLyDnEngA==",
+  "dgSpecHash": "4s7Zk3o6afji0kaB1ueO/HIsMQXTyGDG15MT3J1P3qJJF2oAo39GJ5Dknz5ZyxXoKjkS3DV85BAI6rmr2x5Hkg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Bad Habits\\Bad Habits\\Bad Habits.Android\\Bad Habits.Android.csproj",
+  "projectFilePath": "C:\\Users\\nikol\\Documents\\Projects\\TheCatWillnotDie2\\Bad Habits\\Bad Habits.Android\\Bad Habits.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\blino\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",

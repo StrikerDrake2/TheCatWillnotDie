@@ -1,22 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Bad_Habits.Habits_List" BackgroundColor="White">
+             x:Class="Bad_Habits.Habits_List" BackgroundColor="#5973C8"  Title="Выбор Зависимости" NavigationPage.HasNavigationBar="False">
     <ContentPage.Content>
         <StackLayout >
-            <Button x:Name="selectHabitsBtn" Text="Зависимости" Clicked="selectHabitsBtn_Clicked" Margin="0,100,0,0" HorizontalOptions="Center" CornerRadius="20" BackgroundColor="#006ED7"></Button>
-            <Entry x:Name="ent1" HorizontalOptions="Fill" Margin="50,20,50,0" BackgroundColor="#008BDE" HorizontalTextAlignment="Center"></Entry>
+            <Frame Margin="50,40,50,0" CornerRadius="30" BackgroundColor="#363D93">
+                <Entry x:Name="ent1" TextColor="White" HorizontalOptions="Fill" Margin="20,10,20,0" FontAttributes="Bold" HorizontalTextAlignment="Center"></Entry>
+            </Frame>
+            <Button x:Name="selectHabitsBtn" FontAttributes="Bold" TextColor="White" Text="Зависимости" 
+                    Clicked="selectHabitsBtn_Clicked"  Margin="0,40,0,0" HorizontalOptions="Center" 
+                    CornerRadius="20" BackgroundColor="#363D93"></Button>
             <Picker x:Name="pir1" IsVisible="False" SelectedIndexChanged="pir1_SelectedIndexChanged">
                 <Picker.Items>
                     <x:String>Курение</x:String>
+                    <x:String>Алкоголь</x:String>
                     <x:String>Соц. сети</x:String>
                     <x:String>Переедание</x:String>
                     <x:String>YouTube</x:String>
                     <x:String>Видео игры</x:String>
                 </Picker.Items>
             </Picker>
-            <Button x:Name="nextHabitsBtn" Text="Далее" Clicked="nextHabitsBtn_Clicked" Margin="0,0,30,40" HorizontalOptions="End" VerticalOptions="EndAndExpand" 
-                    CornerRadius="20" BackgroundColor="#006ED7"></Button>
+            <Frame HorizontalOptions="Fill" VerticalOptions="EndAndExpand" WidthRequest="100" CornerRadius="10" BackgroundColor="#363D93" >
+                <Button x:Name="nextHabitsBtn" FontAttributes="Bold" Text="Далее >" Clicked="nextHabitsBtn_Clicked" Margin="0,0,1,0" HorizontalOptions="End" VerticalOptions="EndAndExpand" 
+                    CornerRadius="20" BackgroundColor="#5973C8" TextColor="White"></Button>
+            </Frame>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
