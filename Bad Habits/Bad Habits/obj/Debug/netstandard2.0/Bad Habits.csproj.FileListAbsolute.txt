@@ -13,3 +13,18 @@ D:\Projects\Bad Habits\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits
 D:\Projects\Bad Habits\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\ref\Bad Habits.dll
 D:\Projects\Bad Habits\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.pdb
 D:\Projects\Bad Habits\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Habits List.xaml.g.cs
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\bin\Debug\netstandard2.0\Bad Habits.deps.json
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\bin\Debug\netstandard2.0\Bad Habits.dll
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\bin\Debug\netstandard2.0\ref\Bad Habits.dll
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\bin\Debug\netstandard2.0\Bad Habits.pdb
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Habits List.xaml.g.cs
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.AssemblyInfo.cs
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.dll
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\ref\Bad Habits.dll
+C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.pdb
