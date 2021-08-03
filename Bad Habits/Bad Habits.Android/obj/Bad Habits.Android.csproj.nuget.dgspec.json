@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikol\\Documents\\Projects\\TheCatWillnotDie2\\Bad Habits\\Bad Habits.Android\\Bad Habits.Android.csproj": {}
+    "D:\\Projects\\TheCatWillnotDie\\Bad Habits\\Bad Habits.Android\\Bad Habits.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikol\\Documents\\Projects\\TheCatWillnotDie2\\Bad Habits\\Bad Habits.Android\\Bad Habits.Android.csproj": {
+    "D:\\Projects\\TheCatWillnotDie\\Bad Habits\\Bad Habits.Android\\Bad Habits.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikol\\Documents\\Projects\\TheCatWillnotDie2\\Bad Habits\\Bad Habits.Android\\Bad Habits.Android.csproj",
+        "projectUniqueName": "D:\\Projects\\TheCatWillnotDie\\Bad Habits\\Bad Habits.Android\\Bad Habits.Android.csproj",
         "projectName": "Bad Habits.Android",
-        "projectPath": "C:\\Users\\nikol\\Documents\\Projects\\TheCatWillnotDie2\\Bad Habits\\Bad Habits.Android\\Bad Habits.Android.csproj",
-        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikol\\Documents\\Projects\\TheCatWillnotDie2\\Bad Habits\\Bad Habits.Android\\obj\\",
+        "projectPath": "D:\\Projects\\TheCatWillnotDie\\Bad Habits\\Bad Habits.Android\\Bad Habits.Android.csproj",
+        "packagesPath": "C:\\Users\\blino\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\TheCatWillnotDie\\Bad Habits\\Bad Habits.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\blino\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\nikol\\Documents\\Projects\\TheCatWillnotDie2\\Bad Habits\\Bad Habits\\Bad Habits.csproj": {
-                "projectPath": "C:\\Users\\nikol\\Documents\\Projects\\TheCatWillnotDie2\\Bad Habits\\Bad Habits\\Bad Habits.csproj"
+              "D:\\Projects\\TheCatWillnotDie\\Bad Habits\\Bad Habits\\Bad Habits.csproj": {
+                "projectPath": "D:\\Projects\\TheCatWillnotDie\\Bad Habits\\Bad Habits\\Bad Habits.csproj"
               }
             }
           }
@@ -56,21 +56,21 @@
         }
       }
     },
-    "C:\\Users\\nikol\\Documents\\Projects\\TheCatWillnotDie2\\Bad Habits\\Bad Habits\\Bad Habits.csproj": {
+    "D:\\Projects\\TheCatWillnotDie\\Bad Habits\\Bad Habits\\Bad Habits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikol\\Documents\\Projects\\TheCatWillnotDie2\\Bad Habits\\Bad Habits\\Bad Habits.csproj",
+        "projectUniqueName": "D:\\Projects\\TheCatWillnotDie\\Bad Habits\\Bad Habits\\Bad Habits.csproj",
         "projectName": "Bad Habits",
-        "projectPath": "C:\\Users\\nikol\\Documents\\Projects\\TheCatWillnotDie2\\Bad Habits\\Bad Habits\\Bad Habits.csproj",
-        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikol\\Documents\\Projects\\TheCatWillnotDie2\\Bad Habits\\Bad Habits\\obj\\",
+        "projectPath": "D:\\Projects\\TheCatWillnotDie\\Bad Habits\\Bad Habits\\Bad Habits.csproj",
+        "packagesPath": "C:\\Users\\blino\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\TheCatWillnotDie\\Bad Habits\\Bad Habits\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\blino\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

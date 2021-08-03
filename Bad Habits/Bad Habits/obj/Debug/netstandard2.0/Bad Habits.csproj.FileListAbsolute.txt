@@ -28,3 +28,17 @@ C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\De
 C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.dll
 C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\ref\Bad Habits.dll
 C:\Users\nikol\Documents\Projects\TheCatWillnotDie2\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.pdb
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\bin\Debug\netstandard2.0\Bad Habits.deps.json
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\bin\Debug\netstandard2.0\Bad Habits.dll
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\bin\Debug\netstandard2.0\ref\Bad Habits.dll
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\bin\Debug\netstandard2.0\Bad Habits.pdb
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Habits List.xaml.g.cs
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.AssemblyInfoInputs.cache
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.AssemblyInfo.cs
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.csproj.CoreCompileInputs.cache
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.dll
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\ref\Bad Habits.dll
+D:\Projects\TheCatWillnotDie\Bad Habits\Bad Habits\obj\Debug\netstandard2.0\Bad Habits.pdb

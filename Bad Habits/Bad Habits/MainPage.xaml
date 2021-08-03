@@ -9,9 +9,11 @@
                Padding="24" CornerRadius="0">
             <Label Text="Добавьте зависимость и избавьтесь от неё!" HorizontalTextAlignment="Center" TextColor="White" FontSize="18" FontAttributes="Bold"/>
         </Frame>
-        <StackLayout x:Name="MainStackList">
+        <ScrollView>
+            <StackLayout x:Name="MainStackList">
 
-        </StackLayout>
+            </StackLayout>
+        </ScrollView>
         <Frame HorizontalOptions="Fill" VerticalOptions="EndAndExpand" Margin="0,50,0,0" BackgroundColor="#363D93" CornerRadius="10">
             <Button x:Name="addBtn" Text="+" VerticalOptions="EndAndExpand" HorizontalOptions="End" Margin="0" CornerRadius="30" 
                 Padding="0,10,0,10" FontSize="30" WidthRequest="60" BackgroundColor="#5973C8" Clicked="addBtn_Clicked" TextColor="White"></Button>

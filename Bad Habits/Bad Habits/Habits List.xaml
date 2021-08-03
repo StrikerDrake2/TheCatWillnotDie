@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Bad_Habits.Habits_List" BackgroundColor="#5973C8"  Title="Выбор Зависимости" NavigationPage.HasNavigationBar="False">
     <ContentPage.Content>
-        <StackLayout >
+        <StackLayout>
             <Frame Margin="50,40,50,0" CornerRadius="30" BackgroundColor="#363D93">
                 <Entry x:Name="ent1" TextColor="White" HorizontalOptions="Fill" Margin="20,10,20,0" FontAttributes="Bold" HorizontalTextAlignment="Center"></Entry>
             </Frame>
